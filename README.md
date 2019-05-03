@@ -1,3 +1,3 @@
 # troubleshooting
 
-This is where I troubleshoot GitHub issues!
+This is where I troubleshoot issues!
